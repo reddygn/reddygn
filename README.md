@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Naveen Reddy. I am a Java Developer from Minneapolis, MN. 
 
 <!--
 **reddygn/reddygn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
