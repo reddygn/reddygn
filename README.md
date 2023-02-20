@@ -1,4 +1,4 @@
-### Hi, I'm Naveen Reddy. I am a Java Developer from Minneapolis, MN. 
+### Hi, I'm Naveen Reddy. I am a Software Developer from Minneapolis, MN. 
 
 With having 3+ years of experience and working with web applications from different industries, I am highly motivated and always curious to learn and explore new stuff. 
 
@@ -6,6 +6,7 @@ With having 3+ years of experience and working with web applications from differ
 
 ### Professional Skills : 
 * SpringBoot, Java
+* Javascript, Typescript
 * Maven, Gradle
 * Junit
 
