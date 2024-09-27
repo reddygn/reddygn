@@ -1,14 +1,15 @@
 ### Hi, I'm Naveen Reddy. I am a Software Developer from Minneapolis, MN, USA. 
 
-With having 4 years of experience and working with web applications from different industries, I am highly motivated and always curious to learn and explore new stuff. 
+With having 5 years of experience and working with web applications from different industries, I am highly motivated and always curious to learn and explore new stuff. 
 
 <br>
 
 ### Professional Skills : 
 * SpringBoot, Java
-* Javascript, Typescript
+* Javascript
 * Maven, Gradle
 * Junit
+* AWS
 
 <br>
 
