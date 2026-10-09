@@ -10,6 +10,7 @@ With having 7 years of experience and working with web applications from differe
 * Maven, Gradle
 * Junit
 * AWS
+* MongoDB
 
 <br>
 
